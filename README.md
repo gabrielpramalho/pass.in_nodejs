@@ -32,3 +32,6 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 ### Tecnologias Utilizadas
 
+- TypeScript
+- Fastify
+- Prisma
