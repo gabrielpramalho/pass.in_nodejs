@@ -30,8 +30,9 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 - [ ]  O check-in no evento será realizado através de um QRCode;
 
 
-### Tecnologias Utilizadas
+### Tecnologias e Bibliotecas Utilizadas
 
 - TypeScript
 - Fastify
 - Prisma
+- Zod
