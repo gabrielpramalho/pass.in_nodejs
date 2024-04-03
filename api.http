@@ -2,7 +2,18 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-  "title": "Unite Summit 2",
-  "details": "Um evento para quen é apaixonado por progranaçbo",
-  "maximumAttendees": 100
+  "title": "Evento de um participante",
+  "details": null,
+  "maximumAttendees": 1
+}
+
+
+###
+
+POST http://localhost:3333/events/1fdf82ed-5e92-49dd-93a1-cbfe5185afd5/attendees
+Content-Type: application/json
+
+{
+  "name": "Gabriel Pedro Ramalho",
+  "email": "gabriel2@email.com"
 }
