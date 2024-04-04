@@ -15,5 +15,10 @@ Content-Type: application/json
 
 {
   "name": "Gabriel Pedro Ramalho",
-  "email": "gabriel2@email.com"
+  "email": "gabriel3@email.com"
 }
+
+###
+
+
+GET http://localhost:3333/events/1fdf82ed-5e92-49dd-93a1-cbfe5185afd5
