@@ -35,4 +35,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 - TypeScript
 - Fastify
 - Prisma
+- SQLite
 - Zod
+- Swagger
+- Eslint
